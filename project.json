@@ -1,0 +1,18 @@
+{
+ "name": "wailstest2",
+ "description": "Enter your project description",
+ "author": {
+  "name": "Faraday",
+  "email": "faraday1987@gmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "wailstest2",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "WailsVersion": ""
+}
